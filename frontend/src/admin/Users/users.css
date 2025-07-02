@@ -1,0 +1,25 @@
+.users {
+  width: 100%;
+  max-width: 1200px;
+  overflow-x: auto;
+  white-space: nowrap;
+  margin: 20px auto;
+  min-height: 80vh;
+  border: solid gray 1px;
+}
+
+.users table {
+  width: 100%;
+  min-width: 800px;
+}
+
+.users td {
+  padding: 8px;
+  text-align: center;
+}
+
+.users button {
+  margin: 2px;
+  padding: 5px 10px;
+  font-size: 12px;
+}
